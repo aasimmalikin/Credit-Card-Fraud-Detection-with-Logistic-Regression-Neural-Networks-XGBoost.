@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-with-Logistic-Regression-Neural-Networks-XGBoost.
+This project detects fraudulent credit card transactions using Logistic Regression, Neural Networks, and XGBoost. It handles highly imbalanced data, implements data preprocessing. The notebook demonstrates an end-to-end machine learning workflow, from EDA and, showcasing practical skills in Python, Scikit-learn, TensorFlow/Keras, and XGBoost.
