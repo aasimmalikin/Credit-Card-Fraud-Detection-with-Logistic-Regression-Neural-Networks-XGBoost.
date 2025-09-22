@@ -127,7 +127,7 @@ Models are evaluated on test data post-preprocessing. Hypothetical summary (run 
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |---------------------|----------|-----------|--------|----------|---------|
 | **Logistic Regression** | 99.9%   | 85%      | 75%   | 80%     | 92%    |
-| **Neural Networks**    | 99.9%   | 90%      | 85%   | 87%     | 96%    |
+| **Neural Networks**    | 94.9%   | 90%      | 85%   | 87%     | 96%    |
 | **XGBoost**            | 99.9%   | 95%      | 90%   | 92%     | 98%    |
 
 - **Visuals**: ROC curves, precision-recall plots, feature importance (for XGBoost).
